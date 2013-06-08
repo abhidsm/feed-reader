@@ -1,0 +1,36 @@
+.navigation {
+  background-color: #85D4F2;
+  height: 38px;
+  .tab {
+    text-align: center;
+    margin-top: 10px;
+    span {
+      padding: 10px 30px;
+      cursor: pointer;
+    }
+    span.active {
+      background-color: #C7EBF9;
+    }
+  }
+}
+
+.pagination {
+  text-align: center;
+  img {
+    width: 20px;
+    cursor: pointer;
+  }
+}
+
+.feed  {
+  margin: 20px;
+  background-color: #DEDADB;
+  padding: 10px;
+  border-radius: 15px;
+  img {
+    margin-top: 8%;
+    margin-left: 10%;
+  }
+}
+
+
